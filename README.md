@@ -1,8 +1,8 @@
 # 🔬 Psychiatric Control Systems Lab
 
-## 🧠 At the Nexus of Psychiatry, AI, and Neuroscience
+## 🧠 At the Nexus of Applied Machine Learning, AI, and Neuroscience
 
-Welcome to our lab's GitHub page. We're dedicated to exploring psychiatric disorders through computational methods, focusing on the dynamics of human behavior and neural activity.
+Welcome to our lab's GitHub page. We're dedicated to exploring order and disorders of human brain and behavior through algorithmic and computational methods.
 
 ### Our Research:
 
@@ -13,7 +13,7 @@ Welcome to our lab's GitHub page. We're dedicated to exploring psychiatric disor
 
 ### Mission & Collaboration:
 
-We aim to merge physics, neuroscience, and AI to develop models that predict and influence mental health. Collaborating with entities like The Adaptive Mind, DFG Research Unit 2107, and NCAD, we're at the forefront of computational psychiatry.
+We aim to merge physics, neuroscience, and AI to develop models that predict and influence mental health. 
 
 ### Join & Contact Us:
 
